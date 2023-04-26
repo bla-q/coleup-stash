@@ -14,4 +14,6 @@ Webosu https://webosu.online
 
 Spotify https://spotify.com
 
+ChatGPT 
+
 lmk if you want more
