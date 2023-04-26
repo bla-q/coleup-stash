@@ -1,10 +1,16 @@
 links of interest:
-https://google.com
-https://discord.com
-https://poki.com
-https://youtube.com
-https://browser.rammerhead.org
-https://webosu.online
-https://spotify.com
+  Google https://google.com
+
+ Discord https://discord.com
+
+ Poki https://poki.com
+
+Youtube https://youtube.com
+
+ Browser with tab support (slow) https://browser.rammerhead.org
+
+Webosu https://webosu.online
+
+Spotify https://spotify.com
 
 lmk if you want more
