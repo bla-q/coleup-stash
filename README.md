@@ -16,4 +16,6 @@ Spotify https://spotify.com
 
 ChatGPT https://chat.openai.com/auth/login
 
+Pokémon Showdown! https://play.pokemonshowdown.com
+
 lmk if you want more
