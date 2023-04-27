@@ -4,7 +4,7 @@ Google (no address bar)
 
 https://google.com
 
-Discord 
+Discord (paste in rammerhead)
 
 https://discord.com/app
 
