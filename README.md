@@ -56,10 +56,6 @@ Roblox
 
 https://roblox.com
 
-Securly Blocked Website Checker
-
-https://jsfiddle.net/aL40g3eo/
-
 
 
 
