@@ -60,7 +60,9 @@ Twitch
 
 https://twitch.com
 
+Snapchat
 
+https://snapchat.com/login
 
 
 
