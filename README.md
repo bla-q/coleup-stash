@@ -62,7 +62,7 @@ https://twitch.com
 
 Snapchat
 
-https://snapchat.com/login
+https://accounts.snapchat.com
 
 
 
