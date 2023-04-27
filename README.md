@@ -64,7 +64,9 @@ Snapchat
 
 https://web.snapchat.com
 
+Crazy Games
 
+https://crazygames.com
 
 
 
