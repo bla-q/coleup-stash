@@ -4,9 +4,11 @@ Google (no address bar)
 
 https://google.com
 
-Discord (paste in rammerhead)
+Discord, instructions to get below.
 
 https://discord.com/app
+
+https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing
 
 Poki
  
