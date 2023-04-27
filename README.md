@@ -1,4 +1,4 @@
-links of interest:
+Links of Interest:
 
 [Google](https://google.com)
 
@@ -6,7 +6,7 @@ links of interest:
 
 [Instructions for Discord](https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing)
  
-[poki](https://poki.com)
+[Poki](https://poki.com)
 
 [Youtube (unblocked)](https://youtube.com)
 
