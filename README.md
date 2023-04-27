@@ -68,7 +68,9 @@ Crazy Games
 
 https://crazygames.com
 
+1v1
 
+https://1v1.lol
 
 
 
