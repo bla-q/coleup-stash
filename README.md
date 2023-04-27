@@ -1,10 +1,10 @@
 links of interest:
 
-Google 
+Google (no address bar)
 
 https://google.com
 
- Discord 
+Discord 
 
 https://discord.com/app
 
@@ -12,11 +12,11 @@ Poki
  
 https://poki.com
 
-Youtube
+Youtube (unblocked)
  
 https://youtube.com
 
- Browser with tab support (slow) 
+ Browser with tab support and adress bar, rammerhead credit to binary person (slow) 
 
 https://browser.rammerhead.org
 
