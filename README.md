@@ -2,7 +2,7 @@ Links of Interest:
 
 [Google](https://google.com)
 
-
+[GptLiner](https://getliner.com/en/liner-chat?didSignUp=false)
 
 [Instructions for Discord](https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing)
  
