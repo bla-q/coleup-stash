@@ -1,82 +1,112 @@
 links of interest:
 
-Google (no address bar)
+[Google](https://google.com)
 
-https://google.com
+[Discord](https://discord.com/app)
 
-Discord, instructions to get below.
-
-https://discord.com/app
-
-https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing
-
-Poki
+[Instructions for Discord](https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing)
  
-https://poki.com
+[poki](https://poki.com)
 
-Youtube (unblocked)
- 
-https://youtube.com
+[Youtube (unblocked)](https://youtube.com)
 
- Browser with tab support and adress bar, rammerhead credit to binary person (slow) 
+[Browser with tab support and adress bar, rammerhead credit to binary person (slow)](https://browser.rammerhead.org)  
 
-https://browser.rammerhead.org
+[Osu](https://webosu.online)
 
-Osu! 
+[Spotify](https://spotify.com/login)
 
-https://webosu.online
+[ChatGPT](https://chat.openai.com/auth/login)
 
-Spotify
+[Pokémon Showdown!](https://play.pokemonshowdown.com)
 
-https://spotify.com/login
+[TikTok](https://tiktok.com)
 
-ChatGPT 
+[Twitch](https://twitch.com)
 
-https://chat.openai.com/auth/login
+[Snapchat](https://web.snapchat.com)
 
-Pokémon Showdown! 
+[Crazy Games](https://crazygames.com)
 
-https://play.pokemonshowdown.com
+[1v1](https://1v1.lol)
 
-TikTok
+[Emulator](https://gamesfrog.com/)
 
-https://tiktok.com
 
-Netflix
 
-https://netflix.com/login
 
-Instagram
 
-https://instagram.com
 
-Reddit
 
-https://reddit.com
 
-Roblox
 
-https://roblox.com
 
-Twitch
 
-https://twitch.com
 
-Snapchat
 
-https://web.snapchat.com
 
-Crazy Games
 
-https://crazygames.com
 
-1v1
 
-https://1v1.lol
 
-Emulator
 
-https://gamesfrog.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
