@@ -40,6 +40,9 @@ TikTok
 
 https://tiktok.com
 
+Netflix
+
+https://netflix.com/login
 
 
 
