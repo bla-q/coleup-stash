@@ -39,4 +39,25 @@ https://play.pokemonshowdown.com
 TikTok
 
 https://tiktok.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 lmk if you want more
