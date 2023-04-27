@@ -64,9 +64,6 @@ Snapchat
 
 https://web.snapchat.com
 
-Snapchat Chat Feature (use this after logging in)
-
-
 
 
 
