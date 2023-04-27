@@ -72,7 +72,9 @@ https://crazygames.com
 
 https://1v1.lol
 
+Emulator
 
+https://gamesfrog.com/
 
 
 
