@@ -62,7 +62,7 @@ https://twitch.com
 
 Snapchat
 
-https://accounts.snapchat.com
+https://web.snapchat.com
 
 Snapchat Chat Feature (use this after logging in)
 
