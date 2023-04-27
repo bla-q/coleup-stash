@@ -64,7 +64,7 @@ Snapchat
 
 https://accounts.snapchat.com
 
-
+Snapchat Chat Feature (use this after logging in)
 
 
 
