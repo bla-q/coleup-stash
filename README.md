@@ -5,7 +5,7 @@ https://google.com
 
  Discord 
 
-https://discord.com
+https://discord.com/app
 
 Poki
  
@@ -25,7 +25,7 @@ https://webosu.online
 
 Spotify
 
-https://spotify.com
+https://spotify.com/login
 
 ChatGPT 
 
