@@ -30,7 +30,7 @@ Links of Interest:
 
 [1v1](https://1v1.lol)
 
-[Emulator](MyEmulator.Online)
+[Emulator](https://MyEmulator.Online)
 
 [Twittter](https://twitter.com/)
 
