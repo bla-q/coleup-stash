@@ -1,5 +1,3 @@
-Links of Interest:
-
 [Google](https://google.com)
 
 [GptLiner](https://getliner.com/en/liner-chat?didSignUp=false)
