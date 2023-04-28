@@ -10,6 +10,8 @@
 
 [Browser with tab support and adress bar, rammerhead credit to binary person (slow)](https://browser.rammerhead.org)  
 
+[Die In The Dungeon](https://alarts.itch.io/die-in-the-dungeon]
+
 [Osu](https://webosu.online)
 
 [Spotify](https://spotify.com/login)
