@@ -6,6 +6,8 @@
  
 [Poki](https://poki.com)
 
+[Itch.io](https://itch.io)
+
 [Youtube (unblocked)](https://youtube.com)
 
 [Browser with tab support and adress bar, rammerhead credit to binary person (slow)](https://browser.rammerhead.org)  
