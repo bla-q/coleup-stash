@@ -1,5 +1,7 @@
 [Google](https://google.com)
 
+[Inkarnate Map Maker](https://inkarnate.com)
+
 [GptLiner](https://getliner.com/en/liner-chat?didSignUp=false)
 
 [Instructions for Discord](https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing)
@@ -38,9 +40,7 @@
 
 [Netflix](https://netflix.com)
 
-https://construct3.com
-
-
+[Construct 3](https://construct3.com)
 
 
 
