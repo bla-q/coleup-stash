@@ -12,7 +12,7 @@
 
 [Youtube (unblocked)](https://youtube.com)
 
-[Browser with tab support and adress bar, rammerhead credit to binary person (slow)](https://browser.rammerhead.org)  
+[Opera GX](https://opera.gx)  
 
 [Die In The Dungeon](https://alarts.itch.io/die-in-the-dungeon)
 
