@@ -12,7 +12,7 @@
 
 [Youtube (unblocked)](https://youtube.com)
 
-[Opera GX](https://opera.gx)  
+[Rammerhead](https://browser.rammerhead.com)  
 
 [Die In The Dungeon](https://alarts.itch.io/die-in-the-dungeon)
 
