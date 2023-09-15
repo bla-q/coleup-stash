@@ -6,6 +6,8 @@
 
 [Instructions for Discord](https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing)
 
+[Discord](https://discord.gg)
+
 [Rammerhead](https://browser.rammerhead.org)
 
 [Poki](https://poki.com)
