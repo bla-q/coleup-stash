@@ -42,7 +42,7 @@
 
 [Netflix](https://netflix.com)
 
-[Construct 3](https://editor.construct.net/?startTour)
+[Construct 3](https://editor.construct.net/?)
 
 [Repl](https://replit.com)
 
