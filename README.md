@@ -6,7 +6,7 @@
 
 [Instructions for Discord](https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing)
 
-[Discord](https://discord.gg)
+[Discord](https://discord.gg/app)
 
 [Rammerhead](https://browser.rammerhead.org)
 
