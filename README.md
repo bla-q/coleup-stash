@@ -1,5 +1,7 @@
 [Google](https://google.com)
 
+[Xbox](https://xbox.com)
+
 [Inkarnate Map Maker](https://inkarnate.com)
 
 [ChatGPT](https://chat.openai.com)
