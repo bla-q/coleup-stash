@@ -17,6 +17,7 @@
 [Youtube (unblocked)](https://youtube.com)
 
 [Die In The Dungeon](https://alarts.itch.io/die-in-the-dungeon)
+[fg](https://id.embark.games/id/verify-email?code=8e63092b-b74f-4fd0-a26b-171b01ef3a24) 
 
 [Osu](https://webosu.online)
 
