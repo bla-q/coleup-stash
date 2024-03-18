@@ -1,6 +1,6 @@
 [Google](https://google.com)
 
-[JACKBOX](jackbox.tv)
+[JACKBOX](https://jackbox.tv)
 
 [EMU](https://retrogames.cz)
 
