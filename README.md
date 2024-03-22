@@ -1,5 +1,7 @@
 [Google](https://google.com)
 
+[VsCode](https://vscode.web)
+
 [JACKBOX](https://jackbox.tv)
 
 [EMU](https://retrogames.cz)
