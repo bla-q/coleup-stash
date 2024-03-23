@@ -14,6 +14,8 @@
 
 [Discord](https://discord.com/channels/@me)
 
+[Proxyuim](https://proxyium.com)
+
 [Rammerhead](https://browser.rammerhead.org)
 
 [Poki](https://poki.com)
