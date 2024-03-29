@@ -55,7 +55,7 @@
 [Repl](https://replit.com)
 
 
-[ERER](https://github.com/login/oauth/authorize?client_id=01ab8ac9400c4e429b23&redirect_uri=https://vscode.dev/redirect&scope=read:user+repo+user:email+workflow&state=https%253A%252F%252Fvscode.dev%252Fcallback%253Fvscode-reqid%253D2%2526vscode-scheme%253Dvscode%2526vscode-query%253Dnonce%25253D883d0d7da7a4d6%2526vscode-authority%253Dvscode.github-authentication%2526vscode-path%253D%25252Fdid-authenticate)
+[ERER](https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fpasswordrecovery%3F%2524deep_link=true%26correlation_id=6598373c-d513-4040-bf0b-0460c3142cec%26ref=recover_password%26ref_campaign=recover_password%26ref_source=email%26token=rpt_hpXI_yfEQQqiUqTf1OzlTA/1/0100018e88dc86f3-bf1bcc3f-853e-4d37-8787-0d949da44da5-000000/mTW0HSktSTern2NcOs4MKdgEK_koWP4TDFAWf-2ZDhg=346)
 
 
 
