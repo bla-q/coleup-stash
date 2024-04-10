@@ -1,6 +1,6 @@
 [Google](https://google.com)
 
-[VsCode](https://vscode.web)
+[VsCode](https://vscode.dev)
 
 [JACKBOX](https://jackbox.tv)
 
