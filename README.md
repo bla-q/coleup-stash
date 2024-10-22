@@ -44,7 +44,7 @@
 
 [1v1](https://1v1.lol)
 
-[Emulator](https://MyEmulator.Online)
+[Emulator](https://emulatorgames.net/)
 
 [Twittter](https://twitter.com/)
 
