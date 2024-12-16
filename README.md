@@ -6,7 +6,7 @@
 
 [Retro Emulator](https://retrogames.cz)
 
-[Pokemon Infinite Fusion](https://www.webmulator.com/games/gameboy-advance/pok-mon-infinite-fusion)
+[Pokemon Emulator](https://www.playroms.net/games/pokemon-roms/)
 
 [Xbox](https://xbox.com)
 
