@@ -4,7 +4,9 @@
 
 [JACKBOX](https://jackbox.tv)
 
-[EMU](https://retrogames.cz)
+[Retro Emulator](https://retrogames.cz)
+
+[Pokemon Infinite Fusion](https://www.webmulator.com/games/gameboy-advance/pok-mon-infinite-fusion)
 
 [Xbox](https://xbox.com)
 
